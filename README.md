@@ -26,4 +26,4 @@ A simple and fun desktop dice rolling app for tabletop RPGs, built with Python a
 ## 🚀 How to Run
 
 ### 1.download the .py file
-open the file  idLE (Python 3.7.XX) and run the file
+open the file  IDLE (Python 3.7.XX) and run the file
